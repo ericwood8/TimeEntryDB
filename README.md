@@ -8,3 +8,5 @@ On your local computer
   4) Click "Ok" button.
 
 Should appear as TimeEntry database.
+
+This is the database for the TimeEntryServer and TimeEntryUI repos.
