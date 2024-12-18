@@ -19,7 +19,7 @@ Before beginning, make sure you have the following tools installed:
 2. Some tool to unzip the zip files.
 3. Unzip the two files so there is a MDF and a log file both in the same directory.
      
-=================
+---
 
 ## How To Attach DB
 
