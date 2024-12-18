@@ -6,16 +6,6 @@ Its purpose is for employees to be able to:
   1) enter their time for the day
   2) request leave, clearance, expense reimbursement, and overtime
 
-## Table of Contents
-
-1. [Prerequisites](#prerequisites)
-2. [Installation](#installation)
-3. [Project Setup](#project-setup)
-4. [Running the Project](#running-the-project)
-5. [Additional Configuration](#additional-configuration)
-6. [Troubleshooting](#troubleshooting)
-7. [Contributing](#contributing)
-
 ---
 
 ## Prerequisites
