@@ -1,4 +1,13 @@
 # TimeEntryDB
+This is the MS Sql Server database layer for the TimeEntryUI and TimeEntryServer repos. 
+
+The TimeEntry is a .NET Aspire designed to streamline workforce management.
+Its purpose is for employees to be able to:
+  1) enter their time for the day
+  2) request leave, clearance, expense reimbursement, and overtime
+
+=================
+
 How To Attach DB
 
 On your local computer 
@@ -8,5 +17,3 @@ On your local computer
   4) Click "Ok" button.
 
 Should appear as TimeEntry database.
-
-This is the database for the TimeEntryServer and TimeEntryUI repos.
