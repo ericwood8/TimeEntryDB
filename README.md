@@ -26,8 +26,9 @@ Before beginning, make sure you have the following tools installed:
 On your local computer 
   1) Click on "Databases" folder
   2) Right-click to "Attach..."
-  3) Click "Add" button and find files TimeEntry.mdf and TimeEntry_log.LDF.
-  4) Click "Ok" button.
-  5) Verify and understand the connection string to this TimeEntry database to use in the TimeEntryServer repo.
+  3) If you see nothing, then double-check it is not in the "SQL2022" directory or in folder where connection user does not have permissions.
+  4) Click "Add" button and find files TimeEntry.mdf and TimeEntry_log.LDF.
+  5) Click "Ok" button.
+  6) Verify and understand the connection string to this TimeEntry database to use in the TimeEntryServer repo.
 
 Should appear as TimeEntry database.
