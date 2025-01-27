@@ -30,6 +30,7 @@ On your local computer
   4) If you see nothing, then double-check it is not in the "SQL2022" directory or in folder where connection user does not have permissions.
   5) Click "Add" button and find files TimeEntry.mdf and TimeEntry_log.LDF.
   6) Click "Ok" button.
-  7) Verify and understand the connection string to this TimeEntry database to use in the TimeEntryServer repo.
+  7) If "Access is Denied" error then verify that you are in Administrator mode. (See 1 above).
+  8) Verify and understand the connection string to this TimeEntry database to use in the TimeEntryServer repo.
 
 Should appear as TimeEntry database.
