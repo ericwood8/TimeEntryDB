@@ -14,7 +14,7 @@ Before beginning, make sure you have the following tools installed:
 
 1. **Microsoft SQL Server**
     - Download and install MS SQL Server:  https://www.microsoft.com/en-us/sql-server/sql-server-downloads
-    - **The free Express version is fine**
+    - **The free Developer or free Express version is fine**
     - Verify that this is completely functional.
 2. Some tool to unzip the zip files.
 3. Unzip the two files so there is a MDF and a log file both in the same directory.
